@@ -1,0 +1,34 @@
+body{
+    background-color: #FCFFF5;
+}
+.nav-color{
+    background-color: #193441 !important;
+}
+.tamano{
+    height: 40px;
+    width: 40px;
+}
+.clf{
+    color:white !important;
+}
+.slimg{
+    width: 100%;
+    height: 500px;;
+}
+
+.brcr{
+    background-color: #3E606F;
+}
+.abajo{
+    height: 30px;
+
+    bottom: 0;
+    background-color:#193441;
+    width: 100%;
+}
+.cimage{
+    height: 300px;
+}
+.btn-primary{
+    background-color:#91AA9D;
+}
